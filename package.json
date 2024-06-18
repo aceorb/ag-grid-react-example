@@ -1,6 +1,6 @@
 {
   "name": "ag-grid-react-example",
-  "version": "9.1.0",
+  "version": "10.0.0",
   "description": "Example Reach applicaiton using ag-Grid.",
   "main": "dist/ag-grid-react-example.js",
   "scripts": {
@@ -41,14 +41,9 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "ag-grid": "9.1.x",
-    "ag-grid-api": "file:../ag-grid-api",
-    "ag-grid-enterprise": "9.1.x",
-    "ag-grid-react": "9.1.x",
-    "d3": "^4.9.1",
-    "lodash": "^4.17.4",
-    "react": "15.5.x",
-    "react-dom": "15.5.x",
-    "rimraf": "2.5.x"
+    "ag-grid": "10.0.x",
+    "ag-grid-enterprise": "10.0.x",
+    "ag-grid-react": "10.0.x"
   }
 }
+
